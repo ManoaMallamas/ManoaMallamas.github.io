@@ -1,1 +1,1 @@
-# ManoaMallamas.github.io
+# manoa-mallamas.github.io
