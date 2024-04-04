@@ -24,8 +24,18 @@ Kalo Stems is a website application where it allows for students to get in conta
 ## Developer Guide
 
 ## Development Timeline
-M1 (Due 4/11)
-  - https://github.com/orgs/kalo-stems/projects/3/views/1
+Team Contract (4/2)
+  - [Contract](https://docs.google.com/document/d/1pQhVukBdsgP-iYddv36u0Z7tSdybe16vppzxzfB3U6Q/edit?usp=sharing)
+    
+GitHub organization and Home Page (4/2-4/4)
+  - [KaloStems Team](https://github.com/orgs/kalo-stems/teams/kalo-stems)
+    
+Team and Product Proposal (4/4)
+  - [Slideshow](https://www.canva.com/design/DAGBZoxKtCk/fQQk6ZFbjSCNc1vgeSsEIQ/edit)
+    
+Milestone 1 (Due 4/11 - in progress)
+  - [M1](https://github.com/orgs/kalo-stems/projects/3/views/1)
+    
 
 ## Continuous Integration
 
