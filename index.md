@@ -17,6 +17,8 @@ Kalo Stems is a website application where it allows for students to get in conta
 
 ## Deployment
 
+The application has yet to be deployed.
+
 ## User Guide
 
 ## Community Feedback
