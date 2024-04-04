@@ -1,5 +1,3 @@
-# Kalo Stem
-
 ## Table of contents
 
 * [Overview](#overview)
