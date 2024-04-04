@@ -23,7 +23,9 @@ Kalo Stems is a website application where it allows for students to get in conta
 
 ## Developer Guide
 
-## Development History
+## Development Timeline
+M1 (Due 4/11)
+  - https://github.com/orgs/kalo-stems/projects/3/views/1
 
 ## Continuous Integration
 
