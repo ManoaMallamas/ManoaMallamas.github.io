@@ -13,7 +13,7 @@
 
 ## Overview
 
-Kalo Stems is a website application where it allows for students to get in contact with outside recruiters, companies, and experts. Kalo Stems will allow for a student to register or log-in, and it will also be connected with the UH Manoa server allowing for familiar credentials. Once you create an account, you will be prompted to create a profile including more detailed contact information. For recruiters, there will be a form to fill for detailed company information. On top of the profiles for both companies and potential employees, there will be a Job Description form that will describe the kind of position they are looking to fill and what you might be able to do to fit that job. Lastly, if there is a specific company that you wish to work for, you can search them by the company name, or if you are a company looking for a certain individual, you can filter by their name.
+Our platform, Kalo Stems, will allow UH students to connect with career opportunities that are tailored to their interests and skills. Students will be able to specify their background and aspirations allowing companies to filter and match students who are best fit for their opportunity. KaloStems bridges the gap between academia and industry, allowing students long-term professional success. This application will illustrate various technologies useful to ICS software engineering student, including: 
 
 ## Deployment
 
