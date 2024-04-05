@@ -1,3 +1,5 @@
+<img src="pics/kalostems-logo.png" width="250"> 
+
 ## Table of contents
 
 * [Overview](#overview)
@@ -13,7 +15,7 @@
 
 ## Overview
 
-Our platform, Kalo-Stems, will allow UH students to connect with career opportunities that are tailored to their interests and skills. Students will be able to specify their background and aspirations allowing companies to filter and match students who are best fit for their opportunity. Kalo-Stems bridges the gap between academia and industry, allowing students long-term professional success. This application will illustrate various technologies useful to ICS software engineering student, including: 
+Our platform, KaloStems, will allow UH students to connect with career opportunities that are tailored to their interests and skills. Students will be able to specify their background and aspirations, allowing companies to filter and match students who are best fit for their opportunity. KaloStems bridges the gap between academia and industry, allowing students long-term professional success. This application will illustrate various technologies useful to ICS software engineering student, including: 
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
 * [React](https://react.dev/) for component-based UI implementation and routing.
@@ -54,9 +56,9 @@ The Company profile page contains basic company information about the company it
 
 <img src="pics/company-prof.png">
 
-The Student profile page contains brief information about the student and also links to their Professional Portfolio and LinkedIn:
+The Student profile page contains brief information about the student and also links to their LinkedIn and Professional Portfolio:
 
-<img src="pics/student-prof.png">
+<img src="pics/student-profile.png">
 
 ### Company Recruitment Form
 Specific to the Company Login, to advertise a specific job, there is a recruitment form that can be filled out accordingly:
