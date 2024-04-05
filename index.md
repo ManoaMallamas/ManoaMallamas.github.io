@@ -15,11 +15,21 @@
 
 Our platform, Kalo Stems, will allow UH students to connect with career opportunities that are tailored to their interests and skills. Students will be able to specify their background and aspirations allowing companies to filter and match students who are best fit for their opportunity. KaloStems bridges the gap between academia and industry, allowing students long-term professional success. This application will illustrate various technologies useful to ICS software engineering student, including: 
 
+* [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
+* [React](https://react.dev/) for component-based UI implementation and routing.
+* [React](https://react-bootstrap.github.io/) Bootstrap CSS Framework for UI design.
+* [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
+
 ## Deployment
 
 The application has yet to be deployed.
 
 ## User Guide
+
+This section provides a walkthrough of the Bowfolios user interface and its capabilities.
+
+# User Guide
+The landing page is presented to users when they visit the top-level URL to the site.
 
 ## Community Feedback
 
