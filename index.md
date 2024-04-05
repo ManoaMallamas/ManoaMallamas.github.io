@@ -26,10 +26,37 @@ The application has yet to be deployed.
 
 ## User Guide
 
-This section provides a walkthrough of the Bowfolios user interface and its capabilities.
+This section provides a walkthrough of the Kalo Stem user interface and its capabilities.
 
-# User Guide
+# Landing Page
 The landing page is presented to users when they visit the top-level URL to the site.
+
+<img src="pics/landing.png">
+
+# Sign up and Sign in
+Click on the "Sign In" button to sign in to an existing account:
+
+<img src="pics/login.png">
+
+Or, you can select "Sign Up" to go to the following page and register as a new user.
+
+<img src="pics/signup.png">
+
+# Home page
+After logging in, you are taken to the home page where you can see the follow home page:
+
+!! INSERT HOME PAGE MOCKUP !!
+
+# Profile page
+Kalo Stems has two types of profile pages: Company and Student.
+
+The Company profile page contains basic company information:
+
+<img src="pics/company-prof.png">
+
+The Student profile page contains brief information about the student and also links to their portfolio and LinkedIn:
+
+<img src="pics/student-prof.png">
 
 ## Community Feedback
 
