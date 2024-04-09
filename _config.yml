@@ -1,7 +1,5 @@
 title: Kalo Stems
-description: Kalo Stems test
-google_analytics:
+description: Kalo Stems 
 show_downloads: true
+google_analytics:
 theme: jekyll-theme-slate
-gems:
-  - jekyll-mentions
