@@ -15,7 +15,7 @@
 
 ## Overview
 
-Our platform, KaloStems, will allow UH students to connect with career opportunities that are tailored to their interests and skills. Students will be able to specify their background and aspirations, allowing companies to filter and match students who are best fit for their opportunity. KaloStems bridges the gap between academia and industry, allowing students long-term professional success. This application will illustrate various technologies useful to ICS software engineering student, including: 
+Our platform, Kalo Stems, will allow UH students to connect with career opportunities that are tailored to their interests and skills. Students will be able to specify their background and aspirations, allowing companies to filter and match students who are best fit for their opportunity. KaloStems bridges the gap between academia and industry, allowing students long-term professional success. This application will illustrate various technologies useful to ICS software engineering student, including: 
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
 * [React](https://react.dev/) for component-based UI implementation and routing.
@@ -23,16 +23,16 @@ Our platform, KaloStems, will allow UH students to connect with career opportuni
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 ## Deployment
-
-The application has yet to be deployed.
+*Insert an image of deployment from Emily*
 
 ## User Guide
 
 This section provides a walkthrough of the Kalo-Stem user interface and its capabilities.
 
 ### Landing Page
-The landing page is presented to users when they visit the top-level URL to the site.
+The landing page mockup is presented to users when they visit the top-level URL to the site.
 
+*Insert an image of 
 <img src="pics/landing.png">
 
 ### Sign up and Sign in
