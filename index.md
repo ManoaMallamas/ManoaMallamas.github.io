@@ -30,10 +30,11 @@ Our platform, Kalo Stems, will allow UH students to connect with career opportun
 This section provides a walkthrough of the Kalo-Stem user interface and its capabilities.
 
 ### Landing Page
-The landing page mockup is presented to users when they visit the top-level URL to the site.
+The landing page mockup is presented to users when they visit the top-level URL to the site. 
 
 *Insert an image of 
-<img src="pics/landing.png">
+<img src="pics/LandingMockup1.png">
+<img src="pics/LandingMockup2.png">
 
 ### Sign up and Sign in
 Click on the "Sign In" button to sign in to an existing account:
@@ -49,7 +50,7 @@ After logging in, you are taken to the home page where you can see the following
 
 !! INSERT HOME PAGE MOCKUP !!
 
-### Profile pages
+### Profile pages 
 Kalo-Stems has two types of profile pages: Company and Student, depending on the users title.
 
 The Company profile page contains basic company information about the company itself:
@@ -59,6 +60,7 @@ The Company profile page contains basic company information about the company it
 The Student profile page contains brief information about the student and also links to their LinkedIn and Professional Portfolio:
 
 <img src="pics/student-profile.png">
+
 
 ### Company Recruitment Form
 Specific to the Company Login, to advertise a specific job, there is a recruitment form that can be filled out accordingly:
