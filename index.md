@@ -28,22 +28,21 @@ This section provides a walkthrough of the Kalo-Stem user interface and its capa
 ### Landing Page
 The landing page mockup is presented to users when they visit the top-level URL to the site. 
 
-*Insert an image of 
 <img src="pics/LandingMockup1.png">
 <img src="pics/LandingMockup3.png">
 
 ### Profile pages 
-Kalo Stems has two types of profile pages: Company and Student, depending on the users title.
+Kalo Stems has two types of profile pages: Company and Student, depending on the user's title.
 
-**Mockup 1** The Company profile page (Mockup page 1) contains basic company information about the company itself:
+**Mockup 1** The Company profile page contains basic company information about the company itself:
 
 <img src="pics/AddCompanyProfile.png">
 
 **Mockup 2** The Student profile page contains brief information about the student and also links to their LinkedIn and Professional Portfolio:
 
-<img src="pics/AddStudentProfile">
+<img src="pics/AddStudentProfile.png">
 
-We intend to update the UI design for the information
+We intend to enhance the UI design over the course of our project.
 
 ### Editing Pages
 Each profile page (company and student) will have an edit button that will direct them to a page where their information can be updated.
@@ -56,11 +55,8 @@ Each profile page (company and student) will have an edit button that will direc
 
 <img src="pics/EditStudentProfile.png">
 
-
-<img src="pics/search.png">
-
 ## Community Feedback
-We are interested in your experience using Kalo-Stems! If you would like, please take a couple of minutes to fill out the [Kalo-Stems Feedback Form](https://forms.gle/2oKuKomB4vn7Znak6). It contains only five short questions and will help us understand how to improve the system.
+We are interested in your experience using Kalo Stems! If you would like, please take a couple of minutes to fill out the [Kalo Stems Feedback Form](https://forms.gle/2oKuKomB4vn7Znak6). It contains only five short questions and will help us understand how to improve the system.
 
 ## Developer Guide
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
@@ -68,7 +64,7 @@ This section provides information of interest to Meteor developers wishing to us
 ### Installation
 First, [Install Meteor](https://docs.meteor.com/install.html).
 
-Second, visit the [Kalo-Stems application github page](https://github.com/kalo-stems/kalo-stems.github.io), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+Second, visit the [Kalo Stems application github page](https://github.com/kalo-stems/kalo-stems.github.io), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
 
 Third, cd into the bowfolios/app directory and install libraries with:
 ```angular2html
@@ -85,11 +81,13 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 ### Application Design
 Kalo-Stems is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/).  Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in Kalo-Stems.
 
-#### Data Model
+### Data Model
 This is our prototype Data Model in which we hope to base our collections off of. This is a design choice that we are currently working in progress.
 
+<img src="pics/DataModel.png">
+
 ## Development History 
-The development process for BowFolios conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
+The development process for Kalo Stems conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
 
 * Development consists of a sequence of Milestones.
 * Each Milestone is specified as a set of tasks.
@@ -119,7 +117,8 @@ MileStone 2 is managed using [Kalo Stems GitHub Project Board M2](https://github
 Kalo-Stems uses [Github Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/kalo-stems/kalo-stems.github.io/actions](https://github.com/kalo-stems/kalo-stems.github.io/actions).
 
 ## Links
-* [Contract](https://docs.google.com/document/d/1pQhVukBdsgP-iYddv36u0Z7tSdybe16vppzxzfB3U6Q/edit?usp=sharing)
+* [GitHub Organization](https://github.com/kalo-stems)
+* [Team Contract](https://docs.google.com/document/d/1pQhVukBdsgP-iYddv36u0Z7tSdybe16vppzxzfB3U6Q/edit?usp=sharing)
 * [Slideshow](https://www.canva.com/design/DAGBZoxKtCk/fQQk6ZFbjSCNc1vgeSsEIQ/edit)
 
 ## Team
