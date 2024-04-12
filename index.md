@@ -5,11 +5,9 @@
 * [Overview](#overview)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
-* [Continuous Integration](#continuous-integration)
-* [Walkthrough videos](#walkthrough-videos)
-* [Example enhancements](#example-enhancements)
 * [Team](#team)
 
 ## Overview
@@ -37,22 +35,27 @@ The landing page mockup is presented to users when they visit the top-level URL 
 ### Profile pages 
 Kalo Stems has two types of profile pages: Company and Student, depending on the users title.
 
-The Company profile page contains basic company information about the company itself:
+**Mockup 1** The Company profile page (Mockup page 1) contains basic company information about the company itself:
 
-<img src="pics/company-prof.png">
+<img src="pics/AddCompanyProfile.png">
 
-The Student profile page contains brief information about the student and also links to their LinkedIn and Professional Portfolio:
+**Mockup 2** The Student profile page contains brief information about the student and also links to their LinkedIn and Professional Portfolio:
 
-<img src="pics/student-profile.png">
+<img src="pics/AddStudentProfile">
 
+We intend to update the UI design for the information
 
-### Company Recruitment Form
-Specific to the Company Login, to advertise a specific job, there is a recruitment form that can be filled out accordingly:
+### Editing Pages
+Each profile page (company and student) will have an edit button that will direct them to a page where their information can be updated.
 
-<img src="pics/company-recruit-form.png">
+**Mockup 3** The Company profile editing page
 
-### Search and Filtering
-There will be a search bar where you can search for a specific company or student, or you can filter the type of company/student you are looking for:
+<img src="pics/EditCompanyProfile.png">
+
+**Mockup 4** The Student profile editing page
+
+<img src="pics/EditStudentProfile.png">
+
 
 <img src="pics/search.png">
 
@@ -82,7 +85,10 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 ### Application Design
 Kalo-Stems is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/).  Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in Kalo-Stems.
 
-## Development Timeline
+#### Data Model
+This is our prototype Data Model in which we hope to base our collections off of. This is a design choice that we are currently working in progress.
+
+## Development History 
 The development process for BowFolios conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
 
 * Development consists of a sequence of Milestones.
@@ -95,15 +101,27 @@ The development process for BowFolios conformed to [Issue Driven Project Managem
 
 The following sections document the development history of Kalo-Stems.
 
+### MileStone 1
+The goal of Milestone 1 was to create a set of mockup pages for our app.
+
+MileStone 1 is managed using [Kalo Stems GitHub Project Board M1](https://github.com/orgs/kalo-stems/projects/3)
+
+!! insert miletone 1 page !!
+
+### Milestone 2: 
+The goal of Milestone 2 is to implement the data model: the underlying set of Mongo Collections and systems that would support the Kalo Stems application.
+
+MileStone 2 is managed using [Kalo Stems GitHub Project Board M2](https://github.com/orgs/kalo-stems/projects/6)
+
+!! insert miletone 2 page !!
+
 ## Continuous Integration
 Kalo-Stems uses [Github Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/kalo-stems/kalo-stems.github.io/actions](https://github.com/kalo-stems/kalo-stems.github.io/actions).
+
+## Links
+* [Contract](https://docs.google.com/document/d/1pQhVukBdsgP-iYddv36u0Z7tSdybe16vppzxzfB3U6Q/edit?usp=sharing)
+* [Slideshow](https://www.canva.com/design/DAGBZoxKtCk/fQQk6ZFbjSCNc1vgeSsEIQ/edit)
 
 ## Team
 Kalo-Stem is designed and implemented by [Natalie Dang](https://ndang562.github.io/), [Emily Hsu](https://ehsugit.github.io/), [Samantha Kocher](https://samanthakocher.github.io/), [Roma Malasarte](https://romamalasarte.github.io/), [Rina Ogino](https://rinaogino.github.io/), and [Jaira Pader](https://jairabp.github.io/). 
 All members signed and agreed to the following [contract](https://docs.google.com/document/d/1pQhVukBdsgP-iYddv36u0Z7tSdybe16vppzxzfB3U6Q/edit?usp=sharing), discussing overall guidelines to working in this team.
-
-## Links
-* [Contract](https://docs.google.com/document/d/1pQhVukBdsgP-iYddv36u0Z7tSdybe16vppzxzfB3U6Q/edit?usp=sharing)
-* [KaloStems Team](https://github.com/orgs/kalo-stems/teams/kalo-stems)
-* [Slideshow](https://www.canva.com/design/DAGBZoxKtCk/fQQk6ZFbjSCNc1vgeSsEIQ/edit)
-* [M1](https://github.com/orgs/kalo-stems/projects/3/views/1)
