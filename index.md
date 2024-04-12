@@ -104,14 +104,14 @@ The goal of Milestone 1 was to create a set of mockup pages for our app.
 
 Milestone 1 is managed using [Kalo Stems GitHub Project Board M1](https://github.com/orgs/kalo-stems/projects/3)
 
-!! insert miletone 1 page !!
+<img src="pics/M1.png">
 
 ### Milestone 2: 
 The goal of Milestone 2 is to implement the data model: the underlying set of Mongo Collections and systems that would support the Kalo Stems application.
 
 MileStone 2 is managed using [Kalo Stems GitHub Project Board M2](https://github.com/orgs/kalo-stems/projects/6)
 
-!! insert miletone 2 page !!
+<img src="pics/M2.png">
 
 ## Continuous Integration
 Kalo-Stems uses [Github Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/kalo-stems/kalo-stems.github.io/actions](https://github.com/kalo-stems/kalo-stems.github.io/actions).
