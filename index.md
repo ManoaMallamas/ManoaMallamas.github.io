@@ -99,10 +99,10 @@ The development process for Kalo Stems conformed to [Issue Driven Project Manage
 
 The following sections document the development history of Kalo-Stems.
 
-### MileStone 1
+### Milestone 1
 The goal of Milestone 1 was to create a set of mockup pages for our app.
 
-MileStone 1 is managed using [Kalo Stems GitHub Project Board M1](https://github.com/orgs/kalo-stems/projects/3)
+Milestone 1 is managed using [Kalo Stems GitHub Project Board M1](https://github.com/orgs/kalo-stems/projects/3)
 
 !! insert miletone 1 page !!
 
