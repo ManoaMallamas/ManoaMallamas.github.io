@@ -84,7 +84,7 @@ Kalo-Stems is based upon [meteor-application-template-react](https://ics-softwar
 ### Data Model
 This is our prototype Data Model in which we hope to base our collections off of. This is a design choice that we are currently working in progress.
 
-<img src="pics/DataModel.jpg">
+<img src="pics/DataModel.jpeg">
 
 ## Development History 
 The development process for Kalo Stems conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
