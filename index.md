@@ -5,7 +5,6 @@
 * [Overview](#overview)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 * [Continuous Integration](#continuous-integration)
@@ -23,7 +22,7 @@ Our platform, Kalo Stems, will allow UH students to connect with career opportun
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 ## Deployment
-<a href="[https://www.example.com](http://209.38.128.154/)">Kalo Stems</a>
+[Kalo Stems](http://209.38.128.154/)
 
 ## User Guide
 This section provides a walkthrough of the Kalo-Stem user interface and its capabilities.
@@ -36,7 +35,7 @@ The landing page mockup is presented to users when they visit the top-level URL 
 <img src="pics/LandingMockup3.png">
 
 ### Profile pages 
-Kalo-Stems has two types of profile pages: Company and Student, depending on the users title.
+Kalo Stems has two types of profile pages: Company and Student, depending on the users title.
 
 The Company profile page contains basic company information about the company itself:
 
