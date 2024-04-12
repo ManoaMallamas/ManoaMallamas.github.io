@@ -23,10 +23,9 @@ Our platform, Kalo Stems, will allow UH students to connect with career opportun
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 ## Deployment
-*Insert an image of deployment from Emily*
+<a href="[https://www.example.com](http://209.38.128.154/)">Kalo Stems</a>
 
 ## User Guide
-
 This section provides a walkthrough of the Kalo-Stem user interface and its capabilities.
 
 ### Landing Page
@@ -35,20 +34,6 @@ The landing page mockup is presented to users when they visit the top-level URL 
 *Insert an image of 
 <img src="pics/LandingMockup1.png">
 <img src="pics/LandingMockup3.png">
-
-### Sign up and Sign in
-Click on the "Sign In" button to sign in to an existing account:
-
-<img src="pics/login.png">
-
-Or, you select "Sign Up" to go to the following page and register as a new user.
-
-<img src="pics/signup.png">
-
-### Home page
-After logging in, you are taken to the home page where you can see the following:
-
-!! INSERT HOME PAGE MOCKUP !!
 
 ### Profile pages 
 Kalo-Stems has two types of profile pages: Company and Student, depending on the users title.
