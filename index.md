@@ -34,7 +34,7 @@ The landing page mockup is presented to users when they visit the top-level URL 
 
 *Insert an image of 
 <img src="pics/LandingMockup1.png">
-<img src="pics/LandingMockup2.png">
+<img src="pics/LandingMockup3.png">
 
 ### Sign up and Sign in
 Click on the "Sign In" button to sign in to an existing account:
