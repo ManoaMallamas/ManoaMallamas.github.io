@@ -26,18 +26,22 @@ This section provides a walkthrough of the Kalo Stems user interface and its cap
 ### Landing Page
 The landing page is presented to users when they visit the top-level URL to the site. It provides our motto and some previews of our application.
 
-<img src="pics/landingPage.png">
+<img src="pics/LandingPage.png">
 
 ### Profile Pages
 Kalo Stems has two types of profile pages: Company and Student, depending on the user's title.
 
 **Company Profile** The Company Profile page contains the ability to add the following company information:
 
-<img src="pics/addCompanyProfile.png">
+<img src="pics/AddCompanyProfilePage.png">
 
 **Student Profile** The Student Profile page contains the ability to add the following information about the student, also linking to their LinkedIn and GitHub:
 
-<img src="pics/addStudentProfile.png">
+<img src="pics/AddStudentProfilePage.png">
+
+**Student Profile** The Jobs Profile page contains the ability to add the following information about the job and brief description:
+
+<img src="pics/AddJobsPage.png">
 
 *We intend to enhance the UI design over the course of our project.*
 
@@ -46,11 +50,11 @@ The list pages contain a vast amount of company profiles, and or opportunities f
 
 **Company List** The Company List page contains a variety of companies that are looking for potential matches, as well as contact information for students to easily connect with.
 
-<img src="pics/listCompanyProfiles.png">
+<img src="pics/ViewCompaniesPage.png">
 
 **Job List** The Job List page contains a variety of jobs that companies are offering, with brief descriptions, requirements, and wages. Students are one click away from the "Apply" button!
 
-<img src="pics/listJobsPage.png">
+<img src="pics/ListJobsPage.png">
 
 **Student List** The Student List page contains a list of students showcasing their skills and information for companies to look at and find their potential match.
 
