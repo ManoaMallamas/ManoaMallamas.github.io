@@ -119,12 +119,12 @@ Milestone 1 is managed using [Kalo Stems GitHub Project Board M1](https://github
 ### Milestone 2
 The goal of Milestone 2 was to implement the data model: the underlying set of Mongo Collections and systems that would support the Kalo Stems application.
 
-MileStone 2 is managed using [Kalo Stems GitHub Project Board M2](https://github.com/orgs/kalo-stems/projects/6)
+Milestone 2 is managed using [Kalo Stems GitHub Project Board M2](https://github.com/orgs/kalo-stems/projects/6)
 
 ### Milestone 3
 The goal of Milestone 3, our final milestone, is to enhance the functionality and appearance of our application. We will be finalizing Kalo Stems, stay tuned!
 
-MileStone 3 is managed using [Kalo Stems GitHub Project Board M3](https://github.com/orgs/kalo-stems/projects/7)
+Milestone 3 is managed using [Kalo Stems GitHub Project Board M3](https://github.com/orgs/kalo-stems/projects/7)
 
 ## Continuous Integration
 Kalo Stems uses [Github Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/kalo-stems/kalo-stems.github.io/actions](https://github.com/kalo-stems/kalo-stems.github.io/actions).
@@ -135,7 +135,7 @@ Kalo Stems uses [Github Actions](https://docs.github.com/en/free-pro-team@latest
 * [Slideshow](https://www.canva.com/design/DAGBZoxKtCk/fQQk6ZFbjSCNc1vgeSsEIQ/edit)
 
 ## Team
-Kalo-Stem is designed and implemented by [Natalie Dang](https://ndang562.github.io/), [Emily Hsu](https://ehsugit.github.io/), [Samantha Kocher](https://samanthakocher.github.io/), [Roma Malasarte](https://romamalasarte.github.io/), [Rina Ogino](https://rinaogino.github.io/), and [Jaira Pader](https://jairabp.github.io/).
+Kalo Stems is designed and implemented by [Natalie Dang](https://ndang562.github.io/), [Emily Hsu](https://ehsugit.github.io/), [Samantha Kocher](https://samanthakocher.github.io/), [Roma Malasarte](https://romamalasarte.github.io/), [Rina Ogino](https://rinaogino.github.io/), and [Jaira Pader](https://jairabp.github.io/).
 
 ## Community Feedback
 We are interested in your experience using Kalo Stems! If you would like, please take a couple of minutes to fill out the [Kalo Stems Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSe2SBh4m5ZspDTEs6nUZX3oFsPsw_8W-QFEuCeRV7GaNbes3g/viewform?usp=pp_url). It contains only five short questions and will help us understand how to improve the system.
