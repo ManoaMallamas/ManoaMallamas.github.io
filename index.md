@@ -23,6 +23,9 @@ Our platform, Kalo Stems, will allow UH students to connect with career opportun
 ## Deployment
 View our website application here: [Kalo Stems](https://kalo-stems.art/)
 
+## Activity Badges
+[![ci-kalo-stems](https://github.com/kalo-stems/kalo-kode/actions/workflows/ci.yml/badge.svg)](https://github.com/kalo-stems/kalo-kode/actions/workflows/ci.yml)
+
 ## User Guide
 This section provides a walkthrough of the Kalo Stems user interface and its capabilities.
 
