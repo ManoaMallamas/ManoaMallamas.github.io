@@ -1,4 +1,4 @@
-<img src="pics/kalostems-logo.png" width="250"> 
+<img src="pics/Kalo-Stems-Logo.png" width="250"> 
 
 ## Table of contents
 
@@ -21,7 +21,7 @@ Our platform, Kalo Stems, will allow UH students to connect with career opportun
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 ## User Guide
-This section provides a walkthrough of the Kalo-Stem user interface and its capabilities.
+This section provides a walkthrough of the Kalo Stems user interface and its capabilities.
 
 ### Landing Page
 The landing page is presented to users when they visit the top-level URL to the site. It provides our motto and some previews of our application.
@@ -91,7 +91,7 @@ $ meteor npm run start
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
 ### Application Design
-Kalo-Stems is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/).  Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in Kalo-Stems.
+Kalo Stems is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/).  Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in Kalo Stems.
 
 ### Data Model
 This is our prototype Data Model in which we hope to base our collections off of. This is a design choice that we are currently working in progress.
@@ -109,7 +109,7 @@ The development process for Kalo Stems conformed to [Issue Driven Project Manage
 * When a task is complete, its corresponding issue is closed and its corresponding git branch is merged into master.
 * The state (todo, in progress, complete) of each task for a milestone is managed using a GitHub Project Board.
 
-The following sections document the development history of Kalo-Stems.
+The following sections document the development history of Kalo Stems.
 
 ### Milestone 1
 The goal of Milestone 1 was to create a set of mockup pages for our app.
@@ -127,7 +127,7 @@ The goal of Milestone 3, our final milestone, is to enhance the functionality an
 MileStone 3 is managed using [Kalo Stems GitHub Project Board M3](https://github.com/orgs/kalo-stems/projects/7)
 
 ## Continuous Integration
-Kalo-Stems uses [Github Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/kalo-stems/kalo-stems.github.io/actions](https://github.com/kalo-stems/kalo-stems.github.io/actions).
+Kalo Stems uses [Github Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/kalo-stems/kalo-stems.github.io/actions](https://github.com/kalo-stems/kalo-stems.github.io/actions).
 
 ## Links
 * [GitHub Organization](https://github.com/kalo-stems)
@@ -138,4 +138,4 @@ Kalo-Stems uses [Github Actions](https://docs.github.com/en/free-pro-team@latest
 Kalo-Stem is designed and implemented by [Natalie Dang](https://ndang562.github.io/), [Emily Hsu](https://ehsugit.github.io/), [Samantha Kocher](https://samanthakocher.github.io/), [Roma Malasarte](https://romamalasarte.github.io/), [Rina Ogino](https://rinaogino.github.io/), and [Jaira Pader](https://jairabp.github.io/).
 
 ## Community Feedback
-We are interested in your experience using Kalo Stems! If you would like, please take a couple of minutes to fill out the [Kalo Stems Feedback Form](https://forms.gle/2oKuKomB4vn7Znak6). It contains only five short questions and will help us understand how to improve the system.
+We are interested in your experience using Kalo Stems! If you would like, please take a couple of minutes to fill out the [Kalo Stems Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSe2SBh4m5ZspDTEs6nUZX3oFsPsw_8W-QFEuCeRV7GaNbes3g/viewform?usp=pp_url). It contains only five short questions and will help us understand how to improve the system.
