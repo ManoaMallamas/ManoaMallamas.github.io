@@ -21,7 +21,7 @@ Our platform, Kalo Stems, will allow UH students to connect with career opportun
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 ## Deployment
-View our website application here: [Kalo Stems](https://kalo-stems.art/)
+View our website application here: [Kalo Stems](http://146.190.131.126/)
 
 ## Activity Badges
 [![ci-kalo-stems](https://github.com/kalo-stems/kalo-kode/actions/workflows/ci.yml/badge.svg)](https://github.com/kalo-stems/kalo-kode/actions/workflows/ci.yml)
