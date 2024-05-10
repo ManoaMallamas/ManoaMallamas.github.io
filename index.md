@@ -64,7 +64,7 @@ The list pages contain a vast amount of company profiles, and or opportunities f
 
 **Student List** The Student List page contains a list of students showcasing their skills and information for companies to look at and find their potential match.
 
-<img src="pics/listStudent.png">
+<img src="pics/ListStudent.png">
 
 ### Editing Profile Pages
 Each profile page (company and student) will have an implemented edit button that will direct them to a page where their information can be updated.
